@@ -61,7 +61,7 @@ public class ReservaBuilder {
 
     }
     public void exibirDetalhes() {
-        System.out.println("Reserca criada com sucesso!");
+        System.out.println("Reserva criada com sucesso!");
 
     }
 }
