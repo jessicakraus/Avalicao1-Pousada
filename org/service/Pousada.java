@@ -20,7 +20,7 @@ public class Pousada {
             return instancia;
         }
 
-        // Restante das implementações e funcionalidades da Pousada...
+       
 
 
 
