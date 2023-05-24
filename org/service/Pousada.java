@@ -19,11 +19,4 @@ public class Pousada {
             }
             return instancia;
         }
-
-       
-
-
-
-
-
 }
